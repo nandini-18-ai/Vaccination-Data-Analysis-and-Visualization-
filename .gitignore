@@ -1,0 +1,37 @@
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+
+# Databases and generated data
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.csv
+*.xlsx
+
+# Secrets and credentials
+*.pem
+*.key
+secrets.*
+credentials.*
+*token*
+*apikey*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Archives and temporary files
+*.zip
+*.tmp
+*.bak
+~$*
