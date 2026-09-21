@@ -83,6 +83,8 @@ The Power BI report is organized into six analytical pages:
 
 Provides a high-level summary of the vaccination dataset through key performance indicators and overview visuals.
 
+![Executive Overview](powerbi/dashboard-screenshots/executive_overview.png)
+
 **Main focus:**
 
 - Total countries covered
@@ -94,6 +96,8 @@ Provides a high-level summary of the vaccination dataset through key performance
 ### 2. Vaccination–Disease Associations
 
 Explores relationships between vaccination indicators and disease-related information.
+
+![Vaccination–Disease Associations](powerbi/dashboard-screenshots/vaccination_disease_associations.png)
 
 **Main focus:**
 
@@ -109,6 +113,8 @@ Explores relationships between vaccination indicators and disease-related inform
 
 Examines the introduction of vaccines and their associated immunization schedules.
 
+![Vaccine Introduction and Schedule](powerbi/dashboard-screenshots/vaccine_introduction_schedule.png)
+
 **Main focus:**
 
 - Vaccine introduction patterns
@@ -120,6 +126,8 @@ Examines the introduction of vaccines and their associated immunization schedule
 ### 4. Vaccination Coverage Analysis
 
 Analyzes vaccination coverage across vaccine-dose combinations and other relevant dimensions.
+
+![Vaccination Coverage Analysis](powerbi/dashboard-screenshots/vaccination_coverage_analysis.png)
 
 **Main focus:**
 
@@ -133,6 +141,8 @@ Analyzes vaccination coverage across vaccine-dose combinations and other relevan
 
 Provides comparative insights across geographical regions and individual countries.
 
+![Regional and Country Comparison](powerbi/dashboard-screenshots/regional_country_comparison.png)
+
 **Main focus:**
 
 - Regional performance
@@ -144,6 +154,8 @@ Provides comparative insights across geographical regions and individual countri
 ### 6. Disease Incidence and Reported Cases
 
 Examines reported disease-related indicators and their distribution across available dimensions.
+
+![Disease Incidence and Reported Cases](powerbi/dashboard-screenshots/disease_incidence_reported_cases.png)
 
 **Main focus:**
 
